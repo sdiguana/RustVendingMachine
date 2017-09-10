@@ -1,0 +1,6 @@
+[package]
+name = "vending_machine"
+version = "0.1.0"
+authors = ["jon <jlipstate@gmail.com>"]
+
+[dependencies]
